@@ -1,4 +1,4 @@
-vless://5aad9711-57b0-4fbe-907e-3a0bed6f3987@172.64.142.1171:443?encryption=none&security=tls&sni=ray.tzftc.link&fp=randomized&type=ws&host=ray.tzftc.link&path=%2F%3Fed%3D2048#ray.tzftc.link
+vless://5aad9711-57b0-4fbe-907e-3a0bed6f3987@172.64.142.117:443?encryption=none&security=tls&sni=ray.tzftc.link&fp=randomized&type=ws&host=ray.tzftc.link&path=%2F%3Fed%3D2048#ray.tzftc.link
 vless://29bb0354-4cc4-4a24-b36b-0c27cb325b56@103.160.204.126:443?encryption=none&security=tls&sni=hongkong.tzftc.link&fp=randomized&type=ws&host=hongkong.tzftc.link&path=%2F%3Fed%3D2048#hongkong.tzftc.link
 vless://0a70cf16-94c0-45d6-9c8c-9d93fedccf79@172.67.69.254:443?encryption=none&security=tls&sni=singapore.tzftc.link&fp=randomized&type=ws&host=singapore.tzftc.link&path=%2F%3Fed%3D2048#singapore.tzftc.link
 vless://a13638e3-eb7e-416e-912d-f1cd3544b505@146.56.147.241:443?encryption=none&security=tls&sni=japan.tzftc.link&fp=randomized&type=ws&host=japan.tzftc.link&path=%2F%3Fed%3D2048#japan.tzftc.link
