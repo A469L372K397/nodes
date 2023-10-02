@@ -1,10 +1,10 @@
 vless://5aad9711-57b0-4fbe-907e-3a0bed6f3987@172.64.142.117:443?encryption=none&security=tls&sni=ray.tzftc.link&fp=randomized&type=ws&host=ray.tzftc.link&path=%2F%3Fed%3D2048#ray.tzftc.link
 vless://29bb0354-4cc4-4a24-b36b-0c27cb325b56@103.160.204.126:443?encryption=none&security=tls&sni=hongkong.tzftc.link&fp=randomized&type=ws&host=hongkong.tzftc.link&path=%2F%3Fed%3D2048#hongkong.tzftc.link
 vless://0a70cf16-94c0-45d6-9c8c-9d93fedccf79@172.67.69.254:443?encryption=none&security=tls&sni=singapore.tzftc.link&fp=randomized&type=ws&host=singapore.tzftc.link&path=%2F%3Fed%3D2048#singapore.tzftc.link
-vless://a13638e3-eb7e-416e-912d-f1cd3544b505@146.56.155.190:443?encryption=none&security=tls&sni=japan.tzftc.link&fp=randomized&type=ws&host=japan.tzftc.link&path=%2F%3Fed%3D2048#japan.tzftc.link
+vless://a13638e3-eb7e-416e-912d-f1cd3544b505@162.159.249.130:443?encryption=none&security=tls&sni=japan.tzftc.link&fp=randomized&type=ws&host=japan.tzftc.link&path=%2F%3Fed%3D2048#japan.tzftc.link
 vless://ea8c05e5-0c29-4132-b826-4238d5ae63c5@172.67.199.106:443?encryption=none&security=tls&sni=us.tzftc.link&fp=randomized&type=ws&host=us.tzftc.link&path=%2F%3Fed%3D2048#us.tzftc.link
 vless://2c93ef54-b3f0-4279-91d0-d5ccd65f0a3e@172.67.103.180:443?encryption=none&security=tls&sni=socks5.tzftc.link&fp=randomized&type=ws&host=socks5.tzftc.link&path=%2F%3Fed%3D2048#socks5.tzftc.link
 vless://4884748e-24ce-4957-b183-05341886410a@103.160.204.202:443?encryption=none&security=tls&sni=socks5-hongkong.tzftc.link&fp=randomized&type=ws&host=socks5-hongkong.tzftc.link&path=%2F%3Fed%3D2048#socks5-hongkong.tzftc.link
 vless://8b7f6967-9659-41ca-b7b4-42a123d1acec@172.67.62.101:443?encryption=none&security=tls&sni=socks5-singapore.tzftc.link&fp=randomized&type=ws&host=socks5-singapore.tzftc.link&path=%2F%3Fed%3D2048#socks5-singapore.tzftc.link
-vless://6d12d139-d9c8-4c61-b70e-f320cdc23927@146.56.47.117:443?encryption=none&security=tls&sni=socks5-japan.tzftc.link&fp=randomized&type=ws&host=socks5-japan.tzftc.link&path=%2F%3Fed%3D2048#socks5-japan.tzftc.link
+vless://6d12d139-d9c8-4c61-b70e-f320cdc23927@104.19.31.38:443?encryption=none&security=tls&sni=socks5-japan.tzftc.link&fp=randomized&type=ws&host=socks5-japan.tzftc.link&path=%2F%3Fed%3D2048#socks5-japan.tzftc.link
 vless://f2692e69-4c63-41ac-b824-3c63a092d142@168.138.180.50:443?encryption=none&security=tls&sni=socks5-us.tzftc.link&fp=randomized&type=ws&host=socks5-us.tzftc.link&path=%2F%3Fed%3D2048#socks5-us.tzftc.link
